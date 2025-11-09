@@ -1,1 +1,5 @@
 /ExpensesMobile/node_modules/
+/ExpensesMobile/android/
+/ExpensesMobile/ios/
+/ExpensesMobile/.bundle/
+/ExpensesMobile/.idea/
